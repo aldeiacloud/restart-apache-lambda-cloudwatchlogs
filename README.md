@@ -170,7 +170,7 @@ Preste atenção em “pattern”, “log\_group”, “instance\_id” e “Par
 
 
 
-**7- Agora vamos configurar uma regra para o CloudWatch e triggar a lambda ao receber a palavra erro.**
+**6- Agora vamos configurar uma regra para o CloudWatch e triggar a lambda ao receber a palavra erro.**
 
   
 No console da lambda que criou;
